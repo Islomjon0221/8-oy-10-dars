@@ -1,0 +1,33 @@
+/* src/App.css */
+.board {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.list {
+  background-color: #f4f5f7;
+  border-radius: 3px;
+  width: 300px;
+  padding: 10px;
+}
+
+.list input {
+  width: 276px;
+  border: 2px solid black;
+  outline-color: blue;
+  font-size: 15px;
+  background-color: #fff;
+  border-radius: 3px;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0 1px 0 rgba(9, 30, 66, 0.25);
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 3px;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0 1px 0 rgba(9, 30, 66, 0.25);
+}
